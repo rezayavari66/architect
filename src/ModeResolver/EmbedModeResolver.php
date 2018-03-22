@@ -1,8 +1,8 @@
 <?php
 
-namespace Optimus\Architect\ModeResolver;
+namespace Rezayavari\Architect\ModeResolver;
 
-use Optimus\Architect\ModeResolver\ModeResolverInterface;
+use Rezayavari\Architect\ModeResolver\ModeResolverInterface;
 
 class EmbedModeResolver implements ModeResolverInterface
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Optimus\Architect;
+namespace Rezayavari\Architect;
 
 use InvalidArgumentException;
 use Illuminate\Support\Collection;

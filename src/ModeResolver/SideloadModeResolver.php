@@ -1,12 +1,12 @@
 <?php
 
-namespace Optimus\Architect\ModeResolver;
+namespace Rezayavari\Architect\ModeResolver;
 
 use Illuminate\Database\Eloquent\Model as EloquentModel;
 use Illuminate\Support\Collection;
-use Optimus\Architect\ModeResolver\IdsModeResolver;
-use Optimus\Architect\ModeResolver\ModeResolverInterface;
-use Optimus\Architect\Utility;
+use Rezayavari\Architect\ModeResolver\IdsModeResolver;
+use Rezayavari\Architect\ModeResolver\ModeResolverInterface;
+use Rezayavari\Architect\Utility;
 
 class SideloadModeResolver implements ModeResolverInterface
 {
